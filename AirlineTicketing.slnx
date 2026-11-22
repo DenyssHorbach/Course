@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Airline.Core/Airline.Core.csproj" />
+  <Project Path="Airline.UI/Airline.UI.csproj" />
+</Solution>

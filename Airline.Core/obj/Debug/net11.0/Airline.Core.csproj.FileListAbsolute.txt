@@ -1,0 +1,12 @@
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\bin\Debug\net11.0\Airline.Core.deps.json
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\bin\Debug\net11.0\Airline.Core.dll
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\bin\Debug\net11.0\Airline.Core.pdb
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.AssemblyInfoInputs.cache
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.AssemblyInfo.cs
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.csproj.CoreCompileInputs.cache
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.dll
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\refint\Airline.Core.dll
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.pdb
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\ref\Airline.Core.dll
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline..0BDA7CAB.Up2Date

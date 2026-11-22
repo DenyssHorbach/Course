@@ -1,0 +1,16 @@
+[
+  {
+    "Code": "LVV",
+    "Name": "PORT",
+    "City": "Lviv",
+    "Country": "Ukraine",
+    "Id": "f5534271-192f-4da9-a845-477bbf70d8e2"
+  },
+  {
+    "Code": "KAI",
+    "Name": "KAI-Airport",
+    "City": "Kyiv",
+    "Country": "Ukraine",
+    "Id": "d666498c-42a4-49d7-9e24-7ff996c217eb"
+  }
+]

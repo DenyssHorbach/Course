@@ -1,0 +1,12 @@
+[
+  {
+    "FlightId": "36555a17-3484-4cf3-98b5-41bbee743147",
+    "PassengerId": "ff00ab67-4870-49d9-bb05-0c7dde6e6d18",
+    "ServiceClass": 3,
+    "BaggageWeightKg": 18,
+    "ExtraBaggageFee": 4000,
+    "TotalPrice": 29000.0,
+    "PurchaseDate": "2026-11-22T20:40:47.1041237+02:00",
+    "Id": "20e5d4c8-0772-469c-96da-462ddc5b17c0"
+  }
+]

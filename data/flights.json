@@ -1,0 +1,14 @@
+[
+  {
+    "FlightNumber": "01",
+    "DepartureAirportId": "f5534271-192f-4da9-a845-477bbf70d8e2",
+    "ArrivalAirportId": "d666498c-42a4-49d7-9e24-7ff996c217eb",
+    "DepartureTime": "2026-11-25T15:45:00",
+    "BasePrice": 500,
+    "MaxPassengers": 40,
+    "FreeBaggageWeightKg": 10,
+    "MaxBaggageWeightKg": 30,
+    "ExtraBaggagePricePerKg": 200,
+    "Id": "28e4937b-02b2-4c7c-b79d-9c9030ea48da"
+  }
+]

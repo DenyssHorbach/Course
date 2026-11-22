@@ -8,5 +8,35 @@
     "TotalPrice": 29000.0,
     "PurchaseDate": "2026-11-22T20:40:47.1041237+02:00",
     "Id": "20e5d4c8-0772-469c-96da-462ddc5b17c0"
+  },
+  {
+    "FlightId": "28e4937b-02b2-4c7c-b79d-9c9030ea48da",
+    "PassengerId": "859c8cad-d0e2-46dd-a37f-c8b53fca30a7",
+    "ServiceClass": 2,
+    "BaggageWeightKg": 25,
+    "ExtraBaggageFee": 3000,
+    "TotalPrice": 3900.0,
+    "PurchaseDate": "2026-11-22T22:56:53.8366819+02:00",
+    "Id": "b834a1c4-8d59-487c-917c-397ffacff521"
+  },
+  {
+    "FlightId": "28e4937b-02b2-4c7c-b79d-9c9030ea48da",
+    "PassengerId": "859c8cad-d0e2-46dd-a37f-c8b53fca30a7",
+    "ServiceClass": 1,
+    "BaggageWeightKg": 24,
+    "ExtraBaggageFee": 2800,
+    "TotalPrice": 3300.0,
+    "PurchaseDate": "2026-11-22T23:01:15.5484214+02:00",
+    "Id": "cd15c040-f8f8-4d8a-af6f-00eab8c43f0c"
+  },
+  {
+    "FlightId": "3071bfe4-75e8-47d5-a547-bd83c6fc3dba",
+    "PassengerId": "859c8cad-d0e2-46dd-a37f-c8b53fca30a7",
+    "ServiceClass": 1,
+    "BaggageWeightKg": 1,
+    "ExtraBaggageFee": 0,
+    "TotalPrice": 500.0,
+    "PurchaseDate": "2026-11-22T23:05:35.1395531+02:00",
+    "Id": "2ca6e2ed-a9ac-43a4-afc3-777bf8546e76"
   }
 ]

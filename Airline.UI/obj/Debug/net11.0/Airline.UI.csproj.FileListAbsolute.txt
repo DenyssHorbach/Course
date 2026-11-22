@@ -17,3 +17,4 @@ D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.UI\obj\Debug\net11.0\refint\Air
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.UI\obj\Debug\net11.0\Airline.UI.pdb
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.UI\obj\Debug\net11.0\Airline.UI.genruntimeconfig.cache
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.UI\obj\Debug\net11.0\ref\Airline.UI.dll
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.UI\obj\Debug\net11.0\Airline.UI.sourcelink.json

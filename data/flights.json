@@ -10,5 +10,17 @@
     "MaxBaggageWeightKg": 30,
     "ExtraBaggagePricePerKg": 200,
     "Id": "28e4937b-02b2-4c7c-b79d-9c9030ea48da"
+  },
+  {
+    "FlightNumber": "1",
+    "DepartureAirportId": "d666498c-42a4-49d7-9e24-7ff996c217eb",
+    "ArrivalAirportId": "f5534271-192f-4da9-a845-477bbf70d8e2",
+    "DepartureTime": "2027-01-01T13:00:00",
+    "BasePrice": 500,
+    "MaxPassengers": 1,
+    "FreeBaggageWeightKg": 12,
+    "MaxBaggageWeightKg": 30,
+    "ExtraBaggagePricePerKg": 50,
+    "Id": "3071bfe4-75e8-47d5-a547-bd83c6fc3dba"
   }
 ]

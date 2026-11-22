@@ -10,3 +10,4 @@ D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\refint\A
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.pdb
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\ref\Airline.Core.dll
 D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline..0BDA7CAB.Up2Date
+D:\wse\KAI)\zljlsr\proj\AirlineTicketing\Airline.Core\obj\Debug\net11.0\Airline.Core.sourcelink.json
